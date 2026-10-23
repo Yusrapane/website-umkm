@@ -1,6 +1,7 @@
+
 streamlit
 pandas
 openpyxl
-scikit-learn==1.6.1
-lightgbm
 joblib
+lightgbm
+scikit-learn==1.6.1
